@@ -29,8 +29,9 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays t
 ---
 
 ## 📷 Screenshot
-![Weather App Screenshot](https://via.placeholder.com/800x400.png?text=Weather+App+Screenshot)
-url:file:///C:/Users/PC/Documents/Weather%20app.html
+![Weather App Screenshot](<img width="521" height="771" alt="image" src="https://github.com/user-attachments/assets/a784f67d-2991-4107-ac4f-18aa643eb37e" />
+)
+
 ---
 
 ## 🔧 Installation & Usage
