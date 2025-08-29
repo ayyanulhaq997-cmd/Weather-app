@@ -24,16 +24,16 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays t
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to view](https://yourusername.github.io/weather-app/)  
+👉 [Click here to view](https://ayyanulhaq997-cmd.github.io/weather-app/)  
 
 ---
 
 ## 📷 Screenshot
 ![Weather App Screenshot](https://via.placeholder.com/800x400.png?text=Weather+App+Screenshot)
-
+url:file:///C:/Users/PC/Documents/Weather%20app.html
 ---
 
 ## 🔧 Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://ayyanulhaq997-cmd.github.com//weather-app.git
